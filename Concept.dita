@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_idv_hzv_5hb">
+    <title>​​Creating the Starbucks Experience​</title>
+    <shortdesc>​The connection that you create with your customers is the primary reason they come
+        back to Starbucks. For MO&amp;P, the moment of connection happens when the customer arrives
+        for their order at the hand-off plane. Our customer service commitment remains the same,
+        regardless of the channel the customer uses.</shortdesc>
+    <conbody>
+        <p id="paragraph1">Keep in mind that the needs of our mobile order customers may be slightly different than
+            those of customers ordering in the café or Drive Thru. Your mobile order customers value
+            convenience, personalization and speed. A quick "hello" and a smile, along with a
+            genuine "thank you" may be all your mobile customer is looking for. Also, be mindful of
+            new Mobile Order &amp; Pay customers that may be unfamiliar of where and how to pick up
+            their order. Notice if customers look uncertain or need guidance, and proactively ask
+            them if they're waiting for a mobile order. Customers may accidentally come to the wrong
+            store to pick up their mobile order. If this happens, make the moment right by making
+            their order for them and let them know your store location. Ensure your store name makes
+            it easy to identify your store in the App. Refer to the <xref href="Task.dita"
+                format="xml">MO&amp;P Store Naming Guidelines – Quick Reference Guide</xref> more
+            information. </p>
+      <section id="section1"><title>Wait times</title>
+            <p>The MO&amp;P and per Wait Time presented on the App is based on a set of ranges for
+                peak and non-peak. It's determined by the following:</p>
+              <ul
+                id="ul_c3y_21w_5hb">
+                <li>​store's average volume tier </li>
+                <li>​number of MO&amp;P orders in queue (not the in-store line) ​ </li>
+                <li>items in customer's MO&amp;P cart (specifically a Coffee Traveler or a large
+                    number of items)</li>
+            </ul>
+            <title>Discounts and offers available on MOP</title> 
+        <p id="paragraph2">If the barista needs to ring in a discount code on the POS, this discount is not
+                available in MO&amp;P. If the barista does not need to ring in a code, the discount
+                will automatically apply in MO&amp;P. Here are some examples. </p>
+      
+      
+        <p>
+            <ul>
+                <li>Partner discounts</li>
+                <li>Happy hour</li>
+                <li>Multiple discount items (Cake Pops)</li>
+                <li>Star Rewards redemption</li>
+                <li>National promotions</li>
+            </ul>
+          </p>
+            <p>​​Discounts not available (Discounts not automatically applied via the POS)</p>
+            <p>
+                <ul>
+                    <li>Product markdown/sales</li>
+                    <li>Treat receipt</li>
+                </ul>
+            </p>
+        </section>
+       <section id="2">
+          <title>Health and safety guidelines</title> 
+            <p>Mobile orders
+            can be placed from store opening up to 30 minutes prior to close. Mobile orders can only
+            be placed 30 minutes to close to ensure the store is still open upon customer arrival. </p>
+        <p>If a customer arrives after the store is closed follow
+            existing security protocols for closing and end of day procedures. If the customer does
+            arrive after close and the door is locked, do not open the door or let the customer in
+            the store. A customer may arrive to your store late to pick up their mobile order. Any
+            food or beverage item that has been waiting too long for the customer should be remade
+            upon customer arrival. Health and Safety requirements the maximum hold time for a
+            handcrafted beverages and warmed food items is 30 minutes. Refer to the Coffee and
+            Beverage or Food resource materials for additional information. 
+          </p>
+      </section>
+        
+        
+</conbody>
+</concept>

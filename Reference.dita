@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_qq5_2kw_5hb">
+    <title><b>District manager information</b></title>
+    <shortdesc>These are tasks a DM takes when a partner is promoted or hired into SM role, or when
+        an SM leaves the role.</shortdesc>
+    <refbody>
+        <simpletable relcolwidth="1* 1*" id="simpletable_tft_gkw_5hb">
+            <sthead>
+                <stentry>
+                    <p>​<b>Activity</b></p>
+                </stentry>
+                <stentry>
+                    <p><b>DM action</b></p>
+                </stentry>
+            </sthead>
+            <strow>
+                <stentry>
+                    <p>​Partner promoted or hired into store manager role</p>
+                </stentry>
+                <stentry>
+                    <p>Submit a <xref href="https://selfservice.starbucks.com/" format="html"
+                            scope="external">self-service request</xref> for device</p>
+                    <p>(<i>Submit a request>Retail store support>Store Manager Laptop)</i></p>
+                </stentry>
+            </strow>
+            <strow>
+                <stentry>
+                    <p>Store manager is no longer in role (i.e. separated, promoted, demoted)</p>
+                </stentry>
+                <stentry>
+                    <p>Submit a <xref href="https://selfservice.starbucks.com/" format="html"
+                            scope="external">self-service request</xref> for return label and
+                        box</p>
+                    <p>(<i>Submit a request>Retail store support>Store Manager Laptop)</i></p>
+                </stentry>
+            </strow>
+            <strow>
+                <stentry>
+                    <p>​Store manager transfers stores</p>
+                </stentry>
+                <stentry>
+                    <p>Ensure SM takes device with them to new store</p>
+                </stentry>
+            </strow>
+            <strow>
+                <stentry>
+                    <p>Store manager is promoted to DM (or other non-retail) TLA*</p>
+                </stentry>
+                <stentry>
+                    <p>M or Regional coordinator submits a <xref
+                            href="https://selfservice.starbucks.com/" format="html" scope="external"
+                            >self-service request</xref> for a corporate device </p>
+                    <p><i>(Submit a request>User Hardware>Computer Equipment)</i></p>
+                    <p>Ensure SM safely stores SM MacBook until back in SM role </p>
+                    <p><b>Note:</b> If SM receives a permanent promotion to DM (or other non-retail
+                        role) once TLA ends, follow the steps above to return the SM laptop</p>
+                </stentry>
+            </strow>
+            <strow>
+                <stentry>
+                    <p>​ASM/SFM promoted to SM TLA*</p>
+                    <p>(Partner must be in SM job code; reach out to PRM with questions)</p>
+                </stentry>
+                <stentry>
+                    <p>Submit a <xref href="https://selfservice.starbucks.com/" format="html"
+                            scope="external">self-service request</xref> for device</p>
+                    <p>(<i>Submit a request>Retail store support>Store Manager Laptop)</i></p>
+                    <p><b>Note</b>: Consider the cost of the device as it will need to be returned
+                        once ASM/SFM returns to previous role</p>
+                </stentry>
+            </strow>
+            <strow>
+                <stentry>
+                    <p>​Store Manager is on a leave of absence (LOA)</p>
+                </stentry>
+                <stentry>
+                    <p>​DM safely stores device while SM is on LOA</p>
+                </stentry>
+            </strow>
+        </simpletable>
+    </refbody>
+</reference>
