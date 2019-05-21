@@ -12,13 +12,9 @@
            <step>
                 <cmd>Select your choice to Opt-in/Opt-Out</cmd>
           <stepresult>
-            <cmd>The system will remember your choice indefinitely and you can change your choice at any time</cmd>
+            The system will remember your choice indefinitely and you can change your choice at any time
              </stepresult>  
-          
-          
-          </step>
-          
-          
+          </step>        
         </steps>
     </taskbody>
 </task>
