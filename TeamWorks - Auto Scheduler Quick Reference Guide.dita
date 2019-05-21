@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_vdj_z3c_vhb">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>TeamWorks - Auto Scheduler - Quick Reference Guide</title>
+    <shortdesc>Store managers may elect to opt out of the auto scheduler when copying a previous schedule forward.</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Navigate to the scheduling menu of the manager view and select 'Auto Scheduling Assignment'</cmd>
             </step>
+          
+           <step>
+                <cmd>Select your choice to Opt-in/Opt-Out</cmd>
+          <stepresult>
+            <cmd>The system will remember your choice indefinitely and you can change your choice at any time</cmd>
+             </stepresult>  
+          
+          
+          </step>
+          
+          
         </steps>
     </taskbody>
 </task>
