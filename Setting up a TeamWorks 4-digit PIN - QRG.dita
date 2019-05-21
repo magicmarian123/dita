@@ -1,16 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_fpk_shc_vhb">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>Setting up a TeamWorks 4-digit PIN — Quick Reference Guide</title>
+    <shortdesc>How SMs can set their partners up with their new 4-digit PIN for clocking in and out of scheduled shifts in TeamWorks.</shortdesc>
     <taskbody>
         <context>
             <p></p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Open the following link in your browser: <xref
+                        href="https://id.starbucks.com/secureauth3" format="html" scope="external"
+                    /></cmd>
             </step>
+          <step>
+                <cmd>Partners will need to enter their Global User ID and Password</cmd>
+            </step>
+          <step>
+                <cmd>Answer the Q&amp;A to access the system</cmd>
+            </step>
+          <step>
+                <cmd>Locate the Alternate ID section within the screen that appears and click the Registration button</cmd>
+            </step>
+          <step>
+                <cmd>Instruct partners to create their 4-digit PIN (PRO TIP: a partner's 4-digit POS sign-in code could be their 4 digit PIN)</cmd>
+            </step>
+          <step>
+                <cmd>Click Update to save the 4-digit PIN</cmd>
+            </step>
+          <stepresult>
+                <cmd>Partners will receive a confirmation that they have successfully created their PIN</cmd>
+            </stepresult>
+          
         </steps>
     </taskbody>
 </task>
