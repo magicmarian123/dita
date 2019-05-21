@@ -9,22 +9,19 @@
             <step>
                 <cmd>Navigate to the Declared Tips section</cmd>
             </step>
-          <step>
+            <step>
                 <cmd>Select the pay period</cmd>
-            <substeps> 
-              <substep>
-            <cmd>For historical declarations, you will need to call the PCC</cmd>
-               </substep>
-              </substeps>
-          </step>
+                <substeps>
+                    <substep>
+                        <cmd>For historical declarations, you will need to call the PCC</cmd>
+                    </substep>
+                </substeps>
+            </step>
             <step>
                 <cmd>Select the date and enter the tip amount to be declared</cmd>
             </step>
-          <step>
+            <step>
                 <cmd>Save Record to enter the tip declaration to SAP</cmd>
             </step>
-        </steps>
-      
-      IMAGE
-    </taskbody>
+        </steps> IMG </taskbody>
 </task>
