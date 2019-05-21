@@ -1,16 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_gdk_tlc_vhb">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>TeamWorks – Modified Duty Job Code - Quick Reference Guide</title>
+    <shortdesc>Store managers may need to create shifts for a partner using Modified Duty (Canada worker's compensation, workplace injury, etc). This job code should only be used with direction from a Worker's Compensation Specialist.</shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>Note: Modified Duty is to be used only to account for work hours associated with
+                accommodating a partner injured by a workplace incident and is not to be used when
+                accommodating a partner due to their personal medical needs. Questions about this
+                code usage can be sent to: <xref href="http://Starbucks.com" format="html"
+                    scope="external">WCCanada@Starbucks.com</xref></p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Navigate to the Scheduling task on the TeamWorks menu and select Schedule Editor and click on New Shift</cmd>
+            </step>
+          <step>
+                <cmd>Select the applicable partner and enter date, start and end times</cmd>
+            </step>
+          <step>
+                <cmd>Select Modified Duty as the Job</cmd>
+            </step>
+          <step>
+                <cmd>Select Apply</cmd>
+            <stepresult>
+              <cmd>New Modified Duty shift is scheduled
+                </cmd>
+            </stepresult>
             </step>
         </steps>
+      IMG
+      IMG
     </taskbody>
 </task>
