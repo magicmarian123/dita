@@ -23,9 +23,7 @@
             </step>
           <step>
                 <cmd>Select Apply</cmd>
-            <stepresult>
-              <cmd>New Modified Duty shift is scheduled
-                </cmd>
+            <stepresult>New Modified Duty shift is scheduled
             </stepresult>
             </step>
         </steps>
